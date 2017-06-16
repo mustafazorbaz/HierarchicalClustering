@@ -1,0 +1,9 @@
+c:\users\mustafa\documents\visual studio 2015\Projects\HierarchicalCustering\HierarchicalCustering\bin\Debug\HierarchicalCustering.exe
+c:\users\mustafa\documents\visual studio 2015\Projects\HierarchicalCustering\HierarchicalCustering\bin\Debug\HierarchicalCustering.pdb
+c:\users\mustafa\documents\visual studio 2015\Projects\HierarchicalCustering\HierarchicalCustering\obj\Debug\HierarchicalCustering.csprojResolveAssemblyReference.cache
+c:\users\mustafa\documents\visual studio 2015\Projects\HierarchicalCustering\HierarchicalCustering\obj\Debug\HierarchicalCustering.FormMain.resources
+c:\users\mustafa\documents\visual studio 2015\Projects\HierarchicalCustering\HierarchicalCustering\obj\Debug\HierarchicalCustering.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2015\Projects\HierarchicalCustering\HierarchicalCustering\obj\Debug\HierarchicalCustering.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2015\Projects\HierarchicalCustering\HierarchicalCustering\obj\Debug\HierarchicalCustering.exe
+c:\users\mustafa\documents\visual studio 2015\Projects\HierarchicalCustering\HierarchicalCustering\obj\Debug\HierarchicalCustering.pdb
+c:\users\mustafa\documents\visual studio 2015\Projects\HierarchicalCustering\HierarchicalCustering\obj\Debug\HierarchicalCustering.csproj.ResolveComReference.cache
